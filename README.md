@@ -9,7 +9,7 @@
 
 ## About
 
-The **Restaurant Reviews** project is web-based application converted from a static webpage to a mobile-ready web application.  The static design lacked accessibility and was convert to be responsive on different sized displays and accessible for screen reader use. ServiceWorker is used to create offline experience by caching the site's assets
+The **Restaurant Reviews** project is web-based application converted from a static webpage to a mobile-ready web application.  The static design lacked accessibility and was convert to be responsive on different sized displays and accessible for screen reader use. ServiceWorker is used to create offline experience by caching the site's assets.
 
 ## How to run it
 
@@ -34,7 +34,7 @@ The **Restaurant Reviews** project is web-based application converted from a sta
 
 3) With your server running, visit the site: http://localhost:8000
 
-You may need to replace `mapboxToken` in `main.js` and `restaurant_info.js` with a token from [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information.
+    You may need to replace `mapboxToken` in `main.js` and `restaurant_info.js` with a token from [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information.
 
 ## Dependencies
 
