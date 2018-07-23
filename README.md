@@ -1,4 +1,4 @@
-# Restaurant Review - Offline First
+# Restaurant Review Project
 
 ## Table of Contents
 
