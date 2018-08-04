@@ -9,7 +9,7 @@
 
 ## About
 
-The **Restaurant Reviews** project is web-based application converted from a static webpage to a mobile-ready web application.  The static design lacked accessibility and was convert to be responsive on different sized displays and accessible for screen reader use. ServiceWorker is used to create offline experience by caching the site's assets.
+The **Restaurant Reviews** project is web-based application converted from a static webpage to a mobile-ready web application.  The static design lacked accessibility and was remade to be responsive on different sized displays and accessible for screen reader use. ServiceWorker is used to create offline experience by caching the site's assets.
 
 ## How to run it
 
